@@ -1,4 +1,7 @@
 # Neuromancer.vim
+Fork of neuromancer that trys to mark certain builtins as italic to be fancy with [Victor Mono](https://rubjo.github.io/victor-mono/). Focus on Go Development.
+
+---
 
 Neuromancer is a vim colorscheme compatible with gVim and terminal vim (versions
 higher than 7.4). It's inspired by the "High Tech, Low Life" philosophy.
