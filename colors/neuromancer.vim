@@ -373,4 +373,4 @@ call Hi("yamlFlowMappingKey", s:colors["dark_blue"], "NONE", "NONE")
 """"""""""""""""""""""""""""""""
 
 call Hi("dosiniHeader", s:colors["dark_blue"], "NONE", "NONE")
-c
+call Hi("dosiniLabel", s:colors["hot_pink"], "NONE", "NONE")
