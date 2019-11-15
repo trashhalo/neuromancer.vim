@@ -23,7 +23,7 @@ let s:colors = {
 \ }
 
 function! Hi(name, guifg, guibg, gui)
-    let l:cmd = "hi " . a:name . " guibg=" . a:guibg . " guifg=" . a:guifg . " gui=" . a:gui
+    let l:cmd = "hi " . a:name . " guibg=" . a:guibg . " guifg=" . a:guifg . " gui=" . a:gui . " term=" . a:gui . " cterm=" . a:gui
     exe l:cmd
 endfunc
 
